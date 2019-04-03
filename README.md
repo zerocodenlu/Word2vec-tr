@@ -1,9 +1,7 @@
 # Word2vec-tr
 Word2veq in turkish
 
-This is the updated version of this repository :https://github.com/akoksal
-
-So, I trained the model based on wiki corpra on 2019.03.20:
+I trained the model based on wiki corpra on 2019.03.20:
 https://dumps.wikimedia.org/trwiki/
 
 After cleaning and preprocessing data, I used Gensim library to create Word2veq model: tr-word2veq-20190320
